@@ -5,7 +5,7 @@ A simple and the early stage package for matrix profile based on the paper of Ch
 
 Author:	Donghwan Kim 
 
-Maintainer:	Donghwan Kim <donhkim9714 at korea.ac.kr, dhkim2@bistel.com>
+Maintainer:	Donghwan Kim <donhkim9714@korea.ac.kr, dhkim2@bistel.com>
 
 
 #### link:
