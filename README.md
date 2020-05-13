@@ -10,6 +10,6 @@ Maintainer:	Donghwan Kim <donhkim9714@korea.ac.kr, dhkim2@bistel.com>
 
 #### link:
 
-*[CRAN](https://cran.rstudio.com/web/packages/matrixProfile/index.html)
+[CRAN](https://cran.rstudio.com/web/packages/matrixProfile/index.html)
 
-*[CRAN pdf](https://cran.rstudio.com/web/packages/matrixProfile/matrixProfile.pdf)
+[CRAN pdf](https://cran.rstudio.com/web/packages/matrixProfile/matrixProfile.pdf)
